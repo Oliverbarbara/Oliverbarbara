@@ -1,4 +1,6 @@
-### Olá me chamo Barbara Oliveira, e sou estudante de Ti!
+## Olá me chamo Barbara Oliveira, sou estudante de Ti!
+
+✔️ Atualmente trabalho como  Administrativa de Front-Office
 <div align="center">
   <a href="https://github.com/Oliverbarbara">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Oliverbarbara&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
