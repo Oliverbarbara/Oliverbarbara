@@ -1,6 +1,6 @@
 ## Uma Paulista morando em Lisboa!
 
-📚 Estudante de TI <br>
+📚 Estudante de IT <br>
 🖥 Aprofundando em Front-end mais apaixonada por Back-end <br>
 ✔️ Atualmente trabalho como  Administrativa
 
