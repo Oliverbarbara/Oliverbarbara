@@ -1,8 +1,7 @@
-## Uma Paulista morando em Lisboa!
+#Paulista living in Lisbon!
 
-📚 Estudante de IT <br>
-🖥 Aprofundando em Front-end mais apaixonada por Back-end <br>
-✔️ Atualmente trabalho como  Administrativa
+📚 IT student <br>
+🖥 Junior Software Developer 
 
 <div align="center">
   <a href="https://github.com/Oliverbarbara">
