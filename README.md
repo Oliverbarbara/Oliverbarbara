@@ -1,36 +1,35 @@
-#Paulista living in Lisbon!
+👋 Hello, I'm Barbara.
 
-📚 IT student <br>
-🖥 Junior Software Developer 
+🔍 Exploring the Boundaries of Information Technology
+Passionate about the vast realm of Information Technology, I'm on a constant journey of exploration and innovation. From crafting efficient code to architecting robust solutions, I thrive in the world where tech transforms possibilities.
 
-<div align="center">
-  <a href="https://github.com/Oliverbarbara">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraOliveira&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=nightowl"/>
+🚀 Software Developer by Day, Code Enthusiast by Night
+By profession, I'm a dedicated software developer, continuously honing my skills to craft elegant and efficient solutions. Whether it's tackling complex algorithms or building user-centric applications, I'm driven by the joy of creation.
 
+Let's code for a better tomorrow! 💻🌟
+
+<div> <div style="display: inline_block"><br>
+<img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  /> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"  /> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"   /> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  /> 
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  />
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- </div>
-  
- ##
-  
- <div> 
- <div align="left">
-  <a href="https://www.linkedin.com/in/oliverbarbara96" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_olbarbara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
-  </a>
+<div> <div style="display: inline_block"><br>
+<a href="https://instagram.com/_olbarbara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:oliverbarbara96@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/oliverbarbara96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   
-  </div> 
+<div> <div style="display: inline_block"><br>
+<a href="https://github.com/oliverbarbara">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliverbarbara&layout=compact&langs_count=7&theme=highcontrast"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliverbarbara&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</div>
