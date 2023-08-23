@@ -1,10 +1,10 @@
 👋 Hello, I'm Barbara.
 
-🔍 Exploring the Boundaries of Information Technology
-Passionate about the vast realm of Information Technology, I'm on a constant journey of exploration and innovation. From crafting efficient code to architecting robust solutions, I thrive in the world where tech transforms possibilities.
+🔍 Exploring the Boundaries of Information Technology, I'm on a constant journey of exploration and innovation. From crafting efficient code to architecting robust solutions, I thrive in the world where tech transforms possibilities.
 
-🚀 Software Developer by Day, Code Enthusiast by Night
-By profession, I'm a dedicated software developer, continuously honing my skills to craft elegant and efficient solutions. Whether it's tackling complex algorithms or building user-centric applications, I'm driven by the joy of creation.
+🚀 Software Develope continuously honing my skills to craft elegant and efficient solutions. Whether it's tackling complex algorithms or building user-centric applications, I'm driven by the joy of creation.
+
+I'm mad about japanese food, i love to travel and I am completely passionate about playing the sims.♥️
 
 Let's code for a better tomorrow! 💻🌟
 
