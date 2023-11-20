@@ -1,12 +1,17 @@
-👋 Hello, I'm Barbara.
+👋 Hello, I'm Barbara!
 
-🔍 Exploring the Boundaries of Information Technology, I'm on a constant journey of exploration and innovation. From crafting efficient code to architecting robust solutions, I thrive in the world where tech transforms possibilities.
+About Me:
+👩‍💻 I'm Barbara, a passionate software developer on a mission to create impactful solutions. My coding journey is woven with expertise in technologies like C#, Blazor, Microservices, Azure, Docker, and MongoDB.
 
-🚀 Software Develope continuously honing my skills to craft elegant and efficient solutions. Whether it's tackling complex algorithms or building user-centric applications, I'm driven by the joy of creation.
+Current Focus:
+🌐 Currently, I'm immersed in a fascinating project involving the development of a comprehensive application for the Angolan government. This system facilitates the control and management of petroleum, gas, and mineral resources, contributing to efficient governance.
 
-I'm mad about japanese food, i love to travel and I am completely passionate about playing the sims.♥️
+Tech Stack:
+🚀 My toolbox includes C# for robust backend development, Blazor for crafting modern web applications, Microservices architecture for scalability, Azure for cloud magic, Docker for containerization, and MongoDB for flexible data storage.
 
-Let's code for a better tomorrow! 💻🌟
+Hobbies and Interests:
+🍣 When I'm not coding, you'll find me indulging in my love for Japanese cuisine, diving into the magical worlds of Harry Potter and The Vampire Diaries, and occasionally getting lost in the virtual reality of playing The Sims.
+
 
 <div> <div style="display: inline_block"><br>
 <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
