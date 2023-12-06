@@ -1,7 +1,7 @@
 👋 Hello, I'm Barbara!
 
 About Me:
-👩‍💻 I'm Barbara, a passionate software developer on a mission to create impactful solutions. My coding journey is woven with expertise in technologies like C#, Blazor, Microservices, Azure, Docker, and MongoDB.
+👩‍💻 A passionate software developer on a mission to create impactful solutions. My coding journey is woven with expertise in technologies like C#, Blazor, Microservices, Azure, Docker, and MongoDB.
 
 Current Focus:
 🌐 Currently, I'm immersed in a fascinating project involving the development of a comprehensive application for the Angolan government. This system facilitates the control and management of petroleum, gas, and mineral resources, contributing to efficient governance.
